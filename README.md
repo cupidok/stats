@@ -4,6 +4,8 @@
 
 [test2](test2.html)
 
+[test3](pixar.html)
+
 WebR templates and instructions from CanCOTS 2025 in Montreal (June 10-12).
 
 You can view the template, rendered to HTML, by [clicking here](https://driegert.github.io/cancots2025_webr/webr-html_template.html)
