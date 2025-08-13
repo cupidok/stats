@@ -3,7 +3,7 @@
 
 [Titanic Summaries](Titanic.html)
 
-[Pixar Visualizations](pixar.html)
+[Pixar Summaries](pixar.html)
 
 [Coin Flipping](test2.html)
 
