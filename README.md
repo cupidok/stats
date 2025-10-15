@@ -7,6 +7,7 @@
 
 [Coin Flipping](test2.html)
 
+[Simulating Probabilities](Sampling Distributions.html)
 
 
 
