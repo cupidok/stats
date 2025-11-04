@@ -9,6 +9,8 @@
 
 [Simulating Probabilities](babies.html)
 
+[Inferring Population Means](nba.html)
+
 
 
 
