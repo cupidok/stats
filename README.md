@@ -11,6 +11,8 @@
 
 [Inferring Population Means](nba.html)
 
+[Simple Linear Regression](cars.html)
+
 
 
 
